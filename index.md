@@ -8,3 +8,9 @@ Let's learn how to use [Markdown](https://www.markdownguide.org/cheat-sheet/).
 Here's my project portfolio:
 - ProjectedGan
 - StyleGAN_XL
+
+![image](FF7979AD-504D-40B3-937E-E8236CC7039A.jpeg)
+
+This cat image has **three** channels.
+
+It is <em><strong>very cute<strong><em>.
